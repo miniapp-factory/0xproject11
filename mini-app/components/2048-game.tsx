@@ -138,9 +138,6 @@ export default function Game2048() {
         </div>
       )}
     </div>
-  );
-}
->>>>>>> SEARCH
 ````
 
 mini-app/public/logo.png.todo
