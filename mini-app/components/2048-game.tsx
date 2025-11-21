@@ -4,6 +4,9 @@ import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Share } from "@/components/share";
 import { url } from "@/lib/metadata";
+import { Button } from "@/components/ui/button";
+import { Share } from "@/components/share";
+import { url } from "@/lib/metadata";
 
 const SIZE = 4;
 
